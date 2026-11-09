@@ -1,2 +1,2 @@
 # CodeBlaze
-This is the readme file for it
+This is the readme file for it.
